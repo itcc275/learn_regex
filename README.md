@@ -1,1 +1,6 @@
 # learn_regex
+
+1. example 1
+      - let waldoIsHiding = "Somewhere Waldo is hiding in this text.";
+      - let waldoRegex = /Waldo/;
+      - let result = waldoRegex.test(waldoIsHiding);
